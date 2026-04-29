@@ -1,7 +1,7 @@
 {
-  "name": "effects-basics",
-  "private": true,
-  "version": "0.0.0",
+  "name": "react-locations-sorter",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
